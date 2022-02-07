@@ -3,6 +3,6 @@ package com.napier.sem;
 public class App {
     public static void main(String[] args)
     {
-        System.out.println("One flesh, one end.");
+        System.out.println("One flesh, one end!.");
     }
 }
